@@ -1,0 +1,19 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows10"
+    id="d85b90b3-83ac-49ef-a8ef-7500b231454a">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Investment Costs"/>
+  <properties
+      key="Operating Costs"/>
+  <properties
+      key="Sec. Availability"/>
+  <properties
+      key="Sec. Confidentialiti"/>
+  <properties
+      key="Sec. Integrity"/>
+  <properties
+      key="Strategic Importance"/>
+</archimate:SystemSoftware>

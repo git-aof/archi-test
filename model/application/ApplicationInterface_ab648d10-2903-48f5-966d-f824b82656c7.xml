@@ -1,0 +1,22 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit-ISO"
+    id="ab648d10-2903-48f5-966d-f824b82656c7">
+  <properties/>
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Investment Costs"/>
+  <properties
+      key="Number of Users"/>
+  <properties
+      key="Operating Costs"/>
+  <properties
+      key="Sec. Availability"/>
+  <properties
+      key="Sec. Confidentialiti"/>
+  <properties
+      key="Sec. Integrity"/>
+  <properties
+      key="Strategic Importance"/>
+</archimate:ApplicationInterface>

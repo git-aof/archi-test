@@ -1,0 +1,13 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กำหนดแผนการตรวจประเมิน"
+    id="fef770b5-7d4d-4513-a6ab-1e3f1c5711b5">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Strategic Importance"/>
+  <properties
+      key="Current Level of Maturity"/>
+  <properties
+      key="Target Level of Maturity"/>
+</archimate:BusinessProcess>

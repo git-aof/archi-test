@@ -1,0 +1,13 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="กำหนดแผนการดำเนินการ"
+    id="938cfde7-caa7-492b-86ee-509514094b63">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Current Level of Maturity"/>
+  <properties
+      key="Strategic Importance"/>
+  <properties
+      key="Target Level of Maturity"/>
+</archimate:BusinessProcess>

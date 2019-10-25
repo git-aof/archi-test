@@ -1,0 +1,19 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MySQL"
+    id="f8a570f9-384a-414f-9fb6-d03cf7859309">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Investment Costs"/>
+  <properties
+      key="Operating Costs"/>
+  <properties
+      key="Sec. Availability"/>
+  <properties
+      key="Sec. Confidentialiti"/>
+  <properties
+      key="Sec. Integrity"/>
+  <properties
+      key="Strategic Importance"/>
+</archimate:TechnologyCollaboration>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parasoft"
+    id="5570d790-bb3b-49b1-8eb1-638e7640ed0d">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Investment Costs"/>
+  <properties
+      key="Number of Users"/>
+  <properties
+      key="Operating Costs"/>
+  <properties
+      key="Sec. Availability"/>
+  <properties
+      key="Sec. Confidentialiti"/>
+  <properties
+      key="Sec. Integrity"/>
+  <properties
+      key="Strategic Importance"/>
+</archimate:ApplicationComponent>

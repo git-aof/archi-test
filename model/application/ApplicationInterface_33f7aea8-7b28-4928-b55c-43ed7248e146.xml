@@ -1,0 +1,21 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk-ISO"
+    id="33f7aea8-7b28-4928-b55c-43ed7248e146">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Investment Costs"/>
+  <properties
+      key="Number of Users"/>
+  <properties
+      key="Operating Costs"/>
+  <properties
+      key="Sec. Availability"/>
+  <properties
+      key="Sec. Confidentialiti"/>
+  <properties
+      key="Sec. Integrity"/>
+  <properties
+      key="Strategic Importance"/>
+</archimate:ApplicationInterface>

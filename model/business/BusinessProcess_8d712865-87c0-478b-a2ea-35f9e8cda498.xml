@@ -1,0 +1,13 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ตรวจสอบ"
+    id="8d712865-87c0-478b-a2ea-35f9e8cda498">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Current Level of Maturity"/>
+  <properties
+      key="Strategic Importance"/>
+  <properties
+      key="Target Level of Maturity"/>
+</archimate:BusinessProcess>

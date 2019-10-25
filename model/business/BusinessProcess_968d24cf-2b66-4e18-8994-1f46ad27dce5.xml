@@ -1,0 +1,13 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ปรับปรุง"
+    id="968d24cf-2b66-4e18-8994-1f46ad27dce5">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Current Level of Maturity"/>
+  <properties
+      key="Strategic Importance"/>
+  <properties
+      key="Target Level of Maturity"/>
+</archimate:BusinessProcess>

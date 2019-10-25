@@ -1,0 +1,13 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="สรุปผลการดำเนินงาน"
+    id="4f267187-13c7-489d-9004-4dfb6bae6c62">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Current Level of Maturity"/>
+  <properties
+      key="Strategic Importance"/>
+  <properties
+      key="Target Level of Maturity"/>
+</archimate:BusinessProcess>

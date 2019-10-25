@@ -1,0 +1,13 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ทดสอบและซักซ้อมแผนบริหารความต่อเนื่องทางธุรกิจ"
+    id="0475e7e7-6c44-48b6-b30d-eef9c7fa448a">
+  <properties
+      key="Business Fit"/>
+  <properties
+      key="Current Level of Maturity"/>
+  <properties
+      key="Strategic Importance"/>
+  <properties
+      key="Target Level of Maturity"/>
+</archimate:BusinessProcess>

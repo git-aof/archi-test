@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software ISO Implement"
+    id="f408e08f-94d4-4696-ad57-8d717a153649">
+  <properties
+      key="Strategic Importance"
+      value="High"/>
+  <properties
+      key="Business Fit"
+      value="High"/>
+  <properties
+      key="Number of Users"
+      value="20"/>
+  <properties
+      key="Sec. Availability"
+      value="High"/>
+  <properties
+      key="Sec. Confidentialiti"
+      value="High"/>
+  <properties
+      key="Sec. Integrity"
+      value="High"/>
+  <properties
+      key="Investment Costs"
+      value="500,000"/>
+  <properties
+      key="Operating Costs"
+      value="40,000"/>
+</archimate:ApplicationComponent>
